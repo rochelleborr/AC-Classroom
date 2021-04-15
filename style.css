@@ -1,0 +1,474 @@
+.navbar {
+    color: #9a2424;
+    top: 19px;
+}
+
+.navbar-link {
+    color: #0c397e;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 700;
+    top: -27px;
+}
+
+img#intro-logo {
+    width: 304px;
+}
+
+.intro {
+    display: block;
+    background-image: url('images/bg/inbg.png');
+}
+
+#intro-block.container {
+    width: 100% important!;
+}
+
+.introbg {
+    background-image: url('images/bg/inbg3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+    background-position: left top;
+}
+
+.intro-column {
+    grid: 1;
+}
+
+#cl2 {
+    width: 91px;
+    top: 86px;
+    padding: 0px;
+    height: 397px;
+    max-width: 448px;
+    margin-right: 1px;
+}
+
+img#intro-image {
+    width: 446px;
+    height: 372px;
+}
+
+.block {
+    background-size: cover;
+}
+
+#content.block {
+    background-image: url(./images/bg/bg.png);
+    width: 100% important!;
+    height: 1382px;
+    background-size: cover;
+    background-repeat: repeat-y;
+    display: flex;
+    object-position: 0px;
+    padding-top: 0px;
+    margin-top: 8px;
+}
+
+.btn-primary:hover {
+    background-color: #a32727;
+}
+
+section.fdb-block.py-0 {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 21px;
+}
+
+.footer-row {
+    height: 282px;
+    width: 121;
+}
+
+.fdb-block #footerblock.container {
+    padding-top: 7px;
+}
+
+.footer-block {
+    height: 253px;
+}
+
+.fdb-block-mainblock {
+    height: 396px;
+    width: 100%;
+}
+
+footer.fdb-block .container {
+    grid: 0;
+    height: 296px;
+}
+
+div.container #footer {
+    right: -67px;
+    left: 327px;
+    margin-left: 7px;
+    margin-right: 140px;
+    margin-top: -47px;
+}
+
+.col-xl-8.text-center img {
+    width: 27px;
+}
+
+img.img-fluid.mt-5 {
+    vertical-align: middle;
+    background-position: center center;
+}
+
+section#index-first {
+    background-image: url('images/bg/inbg7.png');
+}
+
+section#feature-one {
+    background-image: url('images/bg/inbgaa.png');
+    height: 1102px;
+    width: 100% imporatant !;
+    max-width: -51px;
+    top: 34px;
+    min-height: 25px;
+}
+
+.col-10.col-12 img {
+    min-width: 6px;
+    width: 856px;
+    display: none;
+}
+
+img#feature-home {
+    background-image: url('images/bg/feature.png');
+    background-size: cover;
+    background-position: center center;
+}
+
+img#feature {
+    min-width: -23px;
+    width: 1055px;
+    margin-top: -122px;
+    box-sizing: content-box;
+    object-fit: cover;
+    background-image: url('images/bg/feature.png');
+}
+
+#featureblock-one {
+    padding-top: 0px;
+    margin-top: 1px;
+}
+
+section#feature-two {
+    background-image: url('images/bg/d.png');
+    height: 1072px;
+}
+
+div#feature-container.container {
+    padding: 0px;
+    margin-top: 5px;
+    margin-left: 317px;
+}
+
+section#wah.fdb-block {
+    padding: 59px;
+    width: -108px;
+}
+
+section.fdb-block#index-home {
+    padding: 38px 89px 82px 0px;
+    margin: 11px -53px -87px;
+    bottom: 1px;
+    top: 6px;
+    height: 1026px;
+}
+
+div.col-8 {
+    left: -187px;
+}
+
+#feature-pic-left.col-4 {
+    left: -153px;
+}
+
+#feature-pic-left.col-4 {
+    left: -130px;
+    box-shadow: -13px 12px 41px 4px;
+}
+
+#feature-pic-right.col-4 {
+    right: -131px;
+    box-shadow: 12px 16px 35px -11px;
+}
+
+#pic.col-12 {
+    left: -86px;
+}
+
+#setup.fdb-block {
+    background-color: #dfdfdf;
+}
+
+img#gdevice {
+    width: 93px;
+    top: 3px;
+    right: 43px;
+    padding-right: 0px;
+    padding-top: 8px;
+    margin-right: -57px;
+}
+
+#teamcon.container {
+    margin-top: 66px;
+}
+
+input.custom-range {
+    width: 312px;
+    height: 42px;
+}
+
+label#rate-label {
+    padding-right: 40px;
+    margin-right: 66px;
+    margin-left: 21px;
+    padding-left: 10px;
+    left: -9px;
+}
+
+#ratebtn.btn {
+    right: 16px;
+    top: 7px;
+    bottom: 2px;
+    padding-right: 22px;
+    margin-right: 24px;
+    padding-left: 6px;
+}
+
+button#ratebtn.btn.btn-block {
+    padding-right: 1px;
+    left: 36px;
+    margin: 22px 22px 22px 686px;
+    padding-left: 1px;
+}
+
+.leftrate {
+    margin-top: 1px;
+    margin-right: 9px;
+    margin-left: -74px;
+    padding-left: 0px;
+}
+
+#raterow.text-left {
+    right: 63px;
+    top: -7px;
+    left: 62px;
+    margin: 25px;
+    padding: 0px;
+}
+
+#navbarNav7 {
+    top: -14px;
+    margin-top: 1px;
+}
+
+#navbartext {
+    margin-top: -1px;
+    top: 23px;
+    bottom: -3px;
+}
+
+#helpnavbar {
+    top: 0px;
+}
+
+#helpcolumn {
+    margin-top: 19px;
+    font-family: 'Arimo', sans-serif;
+    color: #fefefe;
+    background-color: #ffffff;
+    border-radius: 24px;
+    border-width: 0px;
+    width: -1px;
+    padding-right: 0px;
+    margin-right: 31px;
+    margin-left: 57px;
+    top: 16px;
+}
+
+#helpsidebar {
+    margin-left: 14px;
+    padding-right: 73px;
+    margin-right: -20px;
+    margin-top: 16px;
+    width: 0px;
+    background-color: #ffffff;
+    border-radius: 22px;
+    left: 21px;
+    height: 416px;
+}
+
+#heltabcontent {
+    margin-top: 16px;
+    padding-right: 56px;
+    padding-left: 45px;
+    margin-bottom: 16px;
+}
+
+#helptabnav {
+    margin: 17px -66px 17px 1px;
+}
+
+#2help {
+    margin-top: 30px;
+    top: -16px;
+    padding-top: 18px;
+}
+
+#helpdivide {
+    margin: 83px 399px 61px 32px;
+    height: 147px;
+}
+
+#helpcolla {
+    border-radius: 41px;
+    background-color: #301e1e;
+    color: #000000;
+    width: 1034px;
+    margin-left: 2px;
+}
+
+#helptitle {
+    margin: 40px 72px 0px 21px;
+    padding-bottom: 28px;
+}
+
+section#helpbg.fdb-block.py-0 {
+    background-image: url('images/bg/acbg.png');
+    margin-bottom: -199px;
+    padding: 0px;
+}
+
+section#homebg3.fdb-block.py-0 {
+    background-image: url('images/stu1gra.png');
+}
+
+#helpti {
+    font-size: 45px;
+    font-family: 'Arimo', sans-serif;
+    color: #ea6e6e;
+    padding: 0px;
+    margin: -19px -19px -24px 14px;
+}
+
+#googledevicevid {
+    margin: 38px 135px 153px 341px;
+    height: 682px;
+    width: 1058px;
+    top: 14px;
+}
+
+#space1 {
+    height: 73px;
+    margin-top: 63px;
+    margin-bottom: -19px;
+}
+
+section#helpbg2.fdb-block.py-0 {
+    height: 923px;
+    margin-bottom: -2px;
+    padding-bottom: 38px;
+    background-image: url('images/bg/acbg.png');
+}
+
+#tips-one {
+    background-image: url('images/bg/tiphead.png');
+    height: 1102px;
+    width: 100% important!;
+    max-width: -51px;
+    top: 34px;
+}
+
+#tipssub {
+    font-size: 25px;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 700;
+    color: #294dac;
+    padding-bottom: 0px;
+    margin: 21px 11px -17px 12px;
+}
+
+#tipspart {
+    height: 1856px;
+    padding: 0px;
+    margin: -1px -58px 0px -145px;
+}
+
+#tipscol {
+    margin-top: 7px;
+    font-size: 23px;
+    width: -7px;
+}
+
+#tiptitle {
+    font-size: 46px;
+    font-family: 'Arimo', sans-serif;
+    color: #d15f5f;
+}
+
+#tipcon {
+    width: 1279px;
+    margin-top: 11px;
+    top: 17px;
+}
+
+#tiprow {
+    margin-left: -190px;
+    margin-top: 17px;
+    padding-top: 48px;
+    top: -12px;
+    bottom: -12px;
+    right: -12px;
+    left: -12px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+}
+
+#tipcon1 {
+    margin-top: 121px;
+}
+
+#footer {
+    font-size: -103px;
+    line-height: 20px;
+    padding-right: 0px;
+    width: 185px;
+    top: 32px;
+    margin-top: 87px;
+    padding-top: 43px;
+    padding-left: 0px;
+    margin-left: 25px;
+    left: 17px;
+}
+
+#insta {
+    width: 898px;
+    color: #ffffff;
+    background-color: #c53a3a;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 10px;
+}
+
+#homefea {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 11px;
+}
+
+#gdp {
+    font-size: 30px;
+    margin-bottom: -7px;
+    font-weight: bold;
+}
+
+#tiprowr {
+    margin-left: -186px;
+    margin-top: -88px;
+}
+
